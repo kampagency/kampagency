@@ -4,7 +4,7 @@ Bem-vindo à nossa agência! Somos especializados em **design criativo**, **dese
 
 ## Sobre nós
 
-Nossa equipe é composta por designers, desenvolvedores e estrategistas apaixonados por transformar ideias em soluções inovadoras. Oferecemos um atendimento personalizado para cada cliente, garantindo que cada projeto seja único e atenda às necessidades específicas do seu negócio.
+Nossa equipe é composta por 1 designer, 3 desenvolvedores e estrategistas apaixonados por transformar ideias em soluções inovadoras. Oferecemos um atendimento personalizado para cada cliente, garantindo que cada projeto seja único e atenda às necessidades específicas do seu negócio.
 
 **Serviços oferecidos:**
 - **Design Gráfico e Branding**
