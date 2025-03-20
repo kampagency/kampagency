@@ -39,7 +39,7 @@ Trabalhamos com as tecnologias mais recentes para oferecer a melhor experiência
 
 Se você está interessado em nosso trabalho, siga estas etapas:
 
-1. **Entre em contato** - Envie um e-mail para [contatkamp@gmail.com](mailto:contatkamp@gmail.com) ou abra uma **issue** aqui no GitHub.
+1. **Entre em contato** - Envie um e-mail para [contactkamp@gmail.com](mailto:contactkamp@gmail.com) ou abra uma **issue** aqui no GitHub.
 2. **Planejamento** - Vamos entender suas necessidades e objetivos para começar o planejamento do projeto.
 3. **Execução** - Nossa equipe vai trabalhar em conjunto com você para garantir que o projeto atenda às suas expectativas.
 4. **Entrega** - Após a finalização, entregaremos o projeto e estaremos disponíveis para suporte contínuo.
