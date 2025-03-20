@@ -52,6 +52,12 @@ Aqui estão alguns projetos que desenvolvemos para nossos clientes:
 - [Projeto 2](link-do-repositorio) - Descrição do projeto e as tecnologias utilizadas.
 - [Projeto 3](link-do-repositorio) - Descrição do projeto e as tecnologias utilizadas.
 
+## Equipe de Projetos
+
+- [Gabriel Víctor - CEO](#) - Desenvoldedor & Designer Gráfico, UI&UX, Social Mídia
+- [Arthur Nunes - CEO](#)
+- [Alexandre Mol- CTO](#)
+
 ## Como Contribuir
 
 Estamos sempre abertos a colaborações e contribuições. Se você quer ajudar com código, designs ou sugerir melhorias, sinta-se à vontade para enviar um pull request. Para mais informações sobre como contribuir, consulte nosso [CONTRIBUTING.md](#).
