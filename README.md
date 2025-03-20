@@ -32,7 +32,7 @@ Trabalhamos com as tecnologias mais recentes para oferecer a melhor experiência
   - SASS, Bootstrap, Tailwind CSS
 
 - **Outras ferramentas:**
-  - Git, GitHub, Docker
+  - Git, GitHub
   - Figma, Sketch, Adobe XD
 
 ## Como trabalhar conosco?
@@ -54,7 +54,7 @@ Aqui estão alguns projetos que desenvolvemos para nossos clientes:
 
 ## Como Contribuir
 
-Estamos sempre abertos a colaborações e contribuições. Se você quer ajudar com código, designs ou sugerir melhorias, sinta-se à vontade para enviar um pull request. Para mais informações sobre como contribuir, consulte nosso [CONTRIBUTING.md](CONTRIBUTING.md).
+Estamos sempre abertos a colaborações e contribuições. Se você quer ajudar com código, designs ou sugerir melhorias, sinta-se à vontade para enviar um pull request. Para mais informações sobre como contribuir, consulte nosso [CONTRIBUTING.md](#).
 
 ## Licença
 
