@@ -48,9 +48,9 @@ Se você está interessado em nosso trabalho, siga estas etapas:
 
 Aqui estão alguns projetos que desenvolvemos para nossos clientes:
 
-- [Projeto 1](link-do-repositorio) - Descrição do projeto e as tecnologias utilizadas.
-- [Projeto 2](link-do-repositorio) - Descrição do projeto e as tecnologias utilizadas.
-- [Projeto 3](link-do-repositorio) - Descrição do projeto e as tecnologias utilizadas.
+- [Projeto 1](#) - Descrição do projeto e as tecnologias utilizadas.
+- [Projeto 2](#) - Descrição do projeto e as tecnologias utilizadas.
+- [Projeto 3](#) - Descrição do projeto e as tecnologias utilizadas.
 
 ## Equipe de Projetos
 
@@ -64,7 +64,7 @@ Estamos sempre abertos a colaborações e contribuições. Se você quer ajudar 
 
 ## Licença
 
-Este repositório está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este repositório está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](#) para mais detalhes.
 
 ---
 
