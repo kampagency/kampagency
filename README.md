@@ -31,14 +31,14 @@ Trabalhamos com as tecnologias mais recentes para oferecer a melhor experiência
   - React, Vue.js, Angular
   - SASS, Bootstrap, Tailwind CSS
 
-- **Backend:**
+<--- - **Backend:**
   - Node.js, Express.js
   - PHP, Laravel, WordPress
   - Python, Django, Flask
 
 - **Bancos de Dados:**
   - MySQL, PostgreSQL, MongoDB
-
+--->
 - **Outras ferramentas:**
   - Git, GitHub, Docker
   - Figma, Sketch, Adobe XD
