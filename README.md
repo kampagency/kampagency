@@ -32,8 +32,8 @@ Trabalhamos com as tecnologias mais recentes para oferecer a melhor experiência
   - SASS, Bootstrap, Tailwind CSS
 
 - **Outras ferramentas:**
-  - Git, GitHub
-  - Figma, Sketch, Adobe XD
+  - Git, GitHub, Vs Code
+  - Figma, Sketch, Adobe Photoshop
 
 ## Como trabalhar conosco?
 
