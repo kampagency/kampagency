@@ -54,9 +54,9 @@ Aqui estão alguns projetos que desenvolvemos para nossos clientes:
 
 ## Equipe de Projetos
 
-- [Gabriel Víctor - CEO](https://github.com/coffeejpeg) - Desenvoldedor & Designer Gráfico, UI&UX, Social Mídia
-- [Arthur Nunes - CEO](https://github.com/NunesArthu) - Desenvolvedor Full Stack
-- [Alexandre Mol- CTO](#) - Desenvolvedor Front-End
+- [Gabriel Víctor](https://github.com/coffeejpeg) - Desenvolvedor Front-End & Designer Gráfico, UI&UX, Social Mídia
+- [Arthur Nunes](https://github.com/NunesArthu) - Desenvolvedor Front-End
+- [Alexandre Mol](#) - Desenvolvedor Front-End
 
 ## Como Contribuir
 
